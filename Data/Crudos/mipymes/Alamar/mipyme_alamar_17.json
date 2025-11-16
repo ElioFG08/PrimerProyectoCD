@@ -1,0 +1,17 @@
+{
+  "mypime_id": "alamar_17",
+  "zona": "alamar",
+  "fecha_recoleccion": "AAAA-MM-DD",
+  "productos": [
+    {"producto": "arroz", "precio": 0, "moneda": "CUP", "unidad": "libra"},
+    {"producto": "pollo", "precio": 0, "moneda": "MLC", "unidad": "kg"},
+    {"producto": "huevo", "precio": 0, "moneda": "CUP", "unidad": "unidad"},
+    {"producto": "aceite", "precio": 0, "moneda": "MLC", "unidad": "litro"},
+    {"producto": "frijoles", "precio": 0, "moneda": "CUP", "unidad": "libra"},
+    {"producto": "azucar", "precio": 0, "moneda": "CUP", "unidad": "libra"},
+    {"producto": "picadillo", "precio": 0, "moneda": "MLC", "unidad": "kg"},
+    {"producto": "leche", "precio": 0, "moneda": "MLC", "unidad": "lata"},
+    {"producto": "refresco", "precio": 0, "moneda": "MLC", "unidad": "unidad"},
+    {"producto": "sal", "precio": 0, "moneda": "CUP", "unidad": "libra"}
+  ]
+}
