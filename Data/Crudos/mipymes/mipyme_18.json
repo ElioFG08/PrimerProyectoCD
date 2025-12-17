@@ -1,0 +1,80 @@
+{
+  "Mipyme_id": "M18",
+  "municipio": "",
+  "latitud": 0.0,
+  "longitud": 0.0,
+  "productos": [
+    {
+      "producto_id": "P001",
+      "nombre": "Spaguetis",
+      "precio": 350,
+      "unidad": "500g"
+    },
+    {
+      "producto_id": "P002",
+      "nombre": "Arroz",
+      "precio": 700,
+      "unidad": "1kg"
+    },
+    {
+      "producto_id": "P003",
+      "nombre": "Azucar",
+      "precio": 650,
+      "unidad": "1kg"
+    },
+    {
+      "producto_id": "P004",
+      "nombre": "Sal",
+      "precio": 500,
+      "unidad": "1kg"
+    },
+    {
+      "producto_id": "P005",
+      "nombre": "Frijoles",
+      "precio": 440,
+      "unidad": "1kg"
+    },
+    {
+      "producto_id": "P006",
+      "nombre": "Aceite",
+      "precio": 1150,
+      "unidad": "1l"
+    },
+    {
+      "producto_id": "P007",
+      "nombre": "Huevos",
+      "precio": 110,
+      "unidad": "unidad"
+    },
+    {
+      "producto_id": "P008",
+      "nombre": "Pollo",
+      "precio": null,
+      "unidad": "lb"
+    },
+    {
+      "producto_id": "P009",
+      "nombre": "Leche",
+      "precio": null,
+      "unidad": "unidad"
+    },
+    {
+      "producto_id": "P010",
+      "nombre": "Papel Higienico",
+      "precio": null,
+      "unidad": "Paquete"
+    },
+    {
+      "producto_id": "P011",
+      "nombre": "Detergente",
+      "precio": null,
+      "unidad": "500g"
+    },
+    {
+      "producto_id": "P012",
+      "nombre": "Pasta Dental",
+      "precio": null,
+      "unidad": "tubo"
+    }
+  ]
+}

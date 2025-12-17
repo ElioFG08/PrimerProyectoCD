@@ -1,0 +1,91 @@
+{
+  "Mipyme_id": "M01",
+  "municipio": "",
+  "latitud": 0.0,
+  "longitud": 0.0,
+  "productos": [
+    {"producto_id": "P001", "nombre": "Spaguetis", "precio": null},
+    {"producto_id": "P002", "nombre": "Arroz", "precio": null},
+    {"producto_id": "P003", "nombre": "Azucar", "precio": null},
+    {"producto_id": "P004", "nombre": "Sal", "precio": null},
+    {"producto_id": "P005", "nombre": "Frijoles", "precio": null},
+    {"producto_id": "P006", "nombre": "Aceite", "precio": null},
+    {"producto_id": "P007", "nombre": "Huevos", "precio": null},
+    {"producto_id": "P008", "nombre": "Pollo", "precio": null},
+    {"producto_id": "P009", "nombre": "Leche", "precio": null},
+    {"producto_id": "P010", "nombre": "Papel Higienico", "precio": null},
+    {"producto_id": "P011", "nombre": "Detergente", "precio": null},
+    {"producto_id": "P012", "nombre": "Pasta Dental", "precio": null}
+  ]
+}
+
+
+
+
+  "Mipyme_id": "M03",
+  "municipio": "",
+  "latitud": 0.0,
+  "longitud": 0.0,
+  "productos": [
+    {
+      "producto_id": "P001",
+      "nombre": "Spaguetis",
+      "precio": null
+    },
+    {
+      "producto_id": "P002",
+      "nombre": "Arroz",
+      "precio": null
+    },
+    {
+      "producto_id": "P003",
+      "nombre": "Azucar",
+      "precio": null
+    },
+    {
+      "producto_id": "P004",
+      "nombre": "Sal",
+      "precio": null
+    },
+    {
+      "producto_id": "P005",
+      "nombre": "Frijoles",
+      "precio": null
+    },
+    {
+      "producto_id": "P006",
+      "nombre": "Aceite",
+      "precio": null
+    },
+    {
+      "producto_id": "P007",
+      "nombre": "Huevos",
+      "precio": null
+    },
+    {
+      "producto_id": "P008",
+      "nombre": "Pollo",
+      "precio": null
+    },
+    {
+      "producto_id": "P009",
+      "nombre": "Leche",
+      "precio": null
+    },
+    {
+      "producto_id": "P010",
+      "nombre": "Papel Higienico",
+      "precio": null
+    },
+    {
+      "producto_id": "P011",
+      "nombre": "Detergente",
+      "precio": null
+    },
+    {
+      "producto_id": "P012",
+      "nombre": "Pasta Dental",
+      "precio": null
+    }
+  ]
+}
