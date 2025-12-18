@@ -1,8 +1,8 @@
 {
   "Mipyme_id": "M22",
-  "municipio": "",
-  "latitud": 0.0,
-  "longitud": 0.0,
+  "municipio": "Plaza",
+  "latitud": 23.129778,
+  "longitud": -82.398391,
   "productos": [
     {
       "producto_id": "P001",
@@ -48,14 +48,14 @@
     },
     {
       "producto_id": "P008",
-      "nombre": "Pollo",
-      "precio": null,
-      "unidad": "lb"
+      "nombre": "Pechuga de pollo",
+      "precio": 5500,
+      "unidad": "2kg"
     },
     {
       "producto_id": "P009",
-      "nombre": "Leche",
-      "precio": null,
+      "nombre": "Leche Condensada",
+      "precio": 540,
       "unidad": "unidad"
     },
     {
@@ -67,7 +67,7 @@
     {
       "producto_id": "P011",
       "nombre": "Detergente",
-      "precio": null,
+      "precio": 470,
       "unidad": "500g"
     },
     {

@@ -1,8 +1,8 @@
 {
   "Mipyme_id": "M07",
-  "municipio": "",
-  "latitud": 0.0,
-  "longitud": 0.0,
+  "municipio": "C.Habana",
+  "latitud": 23.136056,
+  "longitud": -82.371611,
   "productos": [
     {
       "producto_id": "P001",
@@ -48,20 +48,20 @@
     },
     {
       "producto_id": "P008",
-      "nombre": "Pollo",
-      "precio": null,
-      "unidad": "lb"
+      "nombre": "Pechuga de pollo",
+      "precio": 4800,
+      "unidad": "2kg"
     },
     {
       "producto_id": "P009",
-      "nombre": "Leche",
-      "precio": null,
+      "nombre": "Leche Condensada",
+      "precio": 550,
       "unidad": "unidad"
     },
     {
       "producto_id": "P010",
       "nombre": "Papel Higienico",
-      "precio": null,
+      "precio": 630,
       "unidad": "Paquete"
     },
     {
@@ -73,7 +73,7 @@
     {
       "producto_id": "P012",
       "nombre": "Pasta Dental",
-      "precio": null,
+      "precio": 500,
       "unidad": "tubo"
     }
   ]

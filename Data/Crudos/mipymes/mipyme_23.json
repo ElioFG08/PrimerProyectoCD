@@ -1,8 +1,8 @@
 {
   "Mipyme_id": "M23",
-  "municipio": "",
-  "latitud": 0.0,
-  "longitud": 0.0,
+  "municipio": "Plaza",
+  "latitud": 23.133621,
+  "longitud": -82.391304,
   "productos": [
     {
       "producto_id": "P001",
@@ -13,7 +13,7 @@
     {
       "producto_id": "P002",
       "nombre": "Arroz",
-      "precio":680,
+      "precio": 680,
       "unidad": "1kg"
     },
     {
@@ -48,32 +48,32 @@
     },
     {
       "producto_id": "P008",
-      "nombre": "Pollo",
-      "precio": null,
-      "unidad": "lb"
+      "nombre": "Pechuga de pollo",
+      "precio": 4900,
+      "unidad": "2kg"
     },
     {
       "producto_id": "P009",
-      "nombre": "Leche",
-      "precio": null,
+      "nombre": "Leche Condensada",
+      "precio": 580,
       "unidad": "unidad"
     },
     {
       "producto_id": "P010",
       "nombre": "Papel Higienico",
-      "precio": null,
+      "precio": 700,
       "unidad": "Paquete"
     },
     {
       "producto_id": "P011",
       "nombre": "Detergente",
-      "precio": null,
+      "precio": 600,
       "unidad": "500g"
     },
     {
       "producto_id": "P012",
       "nombre": "Pasta Dental",
-      "precio": null,
+      "precio": 600,
       "unidad": "tubo"
     }
   ]

@@ -1,8 +1,8 @@
 {
   "Mipyme_id": "M11",
-  "municipio": "",
-  "latitud": 0.0,
-  "longitud": 0.0,
+  "municipio": "Plaza",
+  "latitud": 23.121007,
+  "longitud": -82.404599,
   "productos": [
     {
       "producto_id": "P001",
@@ -48,14 +48,14 @@
     },
     {
       "producto_id": "P008",
-      "nombre": "Pollo",
+      "nombre": "Pechuga de pollo",
       "precio": null,
-      "unidad": "lb"
+      "unidad": "2kg"
     },
     {
       "producto_id": "P009",
-      "nombre": "Leche",
-      "precio": null,
+      "nombre": "Leche Condensada",
+      "precio": 560,
       "unidad": "unidad"
     },
     {

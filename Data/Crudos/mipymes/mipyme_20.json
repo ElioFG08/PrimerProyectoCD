@@ -1,8 +1,8 @@
 {
   "Mipyme_id": "M20",
-  "municipio": "",
-  "latitud": 0.0,
-  "longitud": 0.0,
+  "municipio": "Plaza",
+  "latitud": 23.136074,
+  "longitud": -82.407539,
   "productos": [
     {
       "producto_id": "P001",
@@ -48,14 +48,14 @@
     },
     {
       "producto_id": "P008",
-      "nombre": "Pollo",
+      "nombre": "Pechuga de pollo",
       "precio": null,
-      "unidad": "lb"
+      "unidad": "2kg"
     },
     {
       "producto_id": "P009",
-      "nombre": "Leche",
-      "precio": null,
+      "nombre": "Leche Condensada",
+      "precio": 560,
       "unidad": "unidad"
     },
     {
@@ -67,13 +67,13 @@
     {
       "producto_id": "P011",
       "nombre": "Detergente",
-      "precio": null,
+      "precio": 560,
       "unidad": "500g"
     },
     {
       "producto_id": "P012",
       "nombre": "Pasta Dental",
-      "precio": null,
+      "precio": 550,
       "unidad": "tubo"
     }
   ]

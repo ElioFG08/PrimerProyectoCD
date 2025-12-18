@@ -1,8 +1,8 @@
 {
   "Mipyme_id": "M02",
-  "municipio": "",
-  "latitud": 0.0,
-  "longitud": 0.0,
+  "municipio": "H.Este",
+  "latitud": 23.1609613,
+  "longitud": -82.3062481,
   "productos": [
     {
       "producto_id": "P001",
@@ -48,14 +48,14 @@
     },
     {
       "producto_id": "P008",
-      "nombre": "Pollo",
-      "precio": null,
-      "unidad": "lb"
+      "nombre": "Pechuga de pollo",
+      "precio": 5500,
+      "unidad": "2kg"
     },
     {
       "producto_id": "P009",
-      "nombre": "Leche",
-      "precio": null,
+      "nombre": "Leche Condensada",
+      "precio": 560,
       "unidad": "unidad"
     },
     {
@@ -73,7 +73,7 @@
     {
       "producto_id": "P012",
       "nombre": "Pasta Dental",
-      "precio": null,
+      "precio": 600,
       "unidad": "tubo"
     }
   ]
