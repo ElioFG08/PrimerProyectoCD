@@ -1,0 +1,1142 @@
+{
+  "Spaguetis": {
+    "precio_promedio_cup": 338.0,
+    "dias_salario_por_sector": {
+      "Transporte , almacenamiento y comunicaciones": {
+        "salario_mensual": 8657.4,
+        "dias_necesarios": 1.2,
+        "porcentaje_salario_mensual": 3.9
+      },
+      "Intermediación financiera": {
+        "salario_mensual": 7785.7,
+        "dias_necesarios": 1.3,
+        "porcentaje_salario_mensual": 4.3
+      },
+      "Servicios empresariales , actividades mobiliarias y de alquiler": {
+        "salario_mensual": 9700.9,
+        "dias_necesarios": 1.0,
+        "porcentaje_salario_mensual": 3.5
+      },
+      "Administración pública , defensa y seguridad social": {
+        "salario_mensual": 5578.9,
+        "dias_necesarios": 1.8,
+        "porcentaje_salario_mensual": 6.1
+      },
+      "Ciencia e innovación tecnológica": {
+        "salario_mensual": 6966.7,
+        "dias_necesarios": 1.5,
+        "porcentaje_salario_mensual": 4.9
+      },
+      "Educación": {
+        "salario_mensual": 5432.5,
+        "dias_necesarios": 1.9,
+        "porcentaje_salario_mensual": 6.2
+      },
+      "Salud pública y asistencia social": {
+        "salario_mensual": 6489.7,
+        "dias_necesarios": 1.6,
+        "porcentaje_salario_mensual": 5.2
+      },
+      "Cultura y deporte": {
+        "salario_mensual": 5037.6,
+        "dias_necesarios": 2.0,
+        "porcentaje_salario_mensual": 6.7
+      },
+      "Otras actividades de servicios comunales , de asociaciones y personales": {
+        "salario_mensual": 4688.1,
+        "dias_necesarios": 2.2,
+        "porcentaje_salario_mensual": 7.2
+      },
+      "Agricultura , ganadería y silvicultura": {
+        "salario_mensual": 6366.3,
+        "dias_necesarios": 1.6,
+        "porcentaje_salario_mensual": 5.3
+      },
+      "Pesca": {
+        "salario_mensual": 7284.1,
+        "dias_necesarios": 1.4,
+        "porcentaje_salario_mensual": 4.6
+      },
+      "Explotación de minas y canteras": {
+        "salario_mensual": 8872.7,
+        "dias_necesarios": 1.1,
+        "porcentaje_salario_mensual": 3.8
+      },
+      "Industria azucarera": {
+        "salario_mensual": 5670.3,
+        "dias_necesarios": 1.8,
+        "porcentaje_salario_mensual": 6.0
+      },
+      "Industria manufacturera excepto la azucarera": {
+        "salario_mensual": 7601.2,
+        "dias_necesarios": 1.3,
+        "porcentaje_salario_mensual": 4.4
+      },
+      "Suministro de electricidad , gas y agua": {
+        "salario_mensual": 12680.4,
+        "dias_necesarios": 0.8,
+        "porcentaje_salario_mensual": 2.7
+      },
+      "Construcción": {
+        "salario_mensual": 12635.8,
+        "dias_necesarios": 0.8,
+        "porcentaje_salario_mensual": 2.7
+      },
+      "Comercio y reparación de efectos personales": {
+        "salario_mensual": 4632.3,
+        "dias_necesarios": 2.2,
+        "porcentaje_salario_mensual": 7.3
+      },
+      "Hoteles y restaurantes": {
+        "salario_mensual": 5019.9,
+        "dias_necesarios": 2.0,
+        "porcentaje_salario_mensual": 6.7
+      }
+    }
+  },
+  "Arroz": {
+    "precio_promedio_cup": 710.7,
+    "dias_salario_por_sector": {
+      "Transporte , almacenamiento y comunicaciones": {
+        "salario_mensual": 8657.4,
+        "dias_necesarios": 2.5,
+        "porcentaje_salario_mensual": 8.2
+      },
+      "Intermediación financiera": {
+        "salario_mensual": 7785.7,
+        "dias_necesarios": 2.7,
+        "porcentaje_salario_mensual": 9.1
+      },
+      "Servicios empresariales , actividades mobiliarias y de alquiler": {
+        "salario_mensual": 9700.9,
+        "dias_necesarios": 2.2,
+        "porcentaje_salario_mensual": 7.3
+      },
+      "Administración pública , defensa y seguridad social": {
+        "salario_mensual": 5578.9,
+        "dias_necesarios": 3.8,
+        "porcentaje_salario_mensual": 12.7
+      },
+      "Ciencia e innovación tecnológica": {
+        "salario_mensual": 6966.7,
+        "dias_necesarios": 3.1,
+        "porcentaje_salario_mensual": 10.2
+      },
+      "Educación": {
+        "salario_mensual": 5432.5,
+        "dias_necesarios": 3.9,
+        "porcentaje_salario_mensual": 13.1
+      },
+      "Salud pública y asistencia social": {
+        "salario_mensual": 6489.7,
+        "dias_necesarios": 3.3,
+        "porcentaje_salario_mensual": 11.0
+      },
+      "Cultura y deporte": {
+        "salario_mensual": 5037.6,
+        "dias_necesarios": 4.2,
+        "porcentaje_salario_mensual": 14.1
+      },
+      "Otras actividades de servicios comunales , de asociaciones y personales": {
+        "salario_mensual": 4688.1,
+        "dias_necesarios": 4.5,
+        "porcentaje_salario_mensual": 15.2
+      },
+      "Agricultura , ganadería y silvicultura": {
+        "salario_mensual": 6366.3,
+        "dias_necesarios": 3.3,
+        "porcentaje_salario_mensual": 11.2
+      },
+      "Pesca": {
+        "salario_mensual": 7284.1,
+        "dias_necesarios": 2.9,
+        "porcentaje_salario_mensual": 9.8
+      },
+      "Explotación de minas y canteras": {
+        "salario_mensual": 8872.7,
+        "dias_necesarios": 2.4,
+        "porcentaje_salario_mensual": 8.0
+      },
+      "Industria azucarera": {
+        "salario_mensual": 5670.3,
+        "dias_necesarios": 3.8,
+        "porcentaje_salario_mensual": 12.5
+      },
+      "Industria manufacturera excepto la azucarera": {
+        "salario_mensual": 7601.2,
+        "dias_necesarios": 2.8,
+        "porcentaje_salario_mensual": 9.3
+      },
+      "Suministro de electricidad , gas y agua": {
+        "salario_mensual": 12680.4,
+        "dias_necesarios": 1.7,
+        "porcentaje_salario_mensual": 5.6
+      },
+      "Construcción": {
+        "salario_mensual": 12635.8,
+        "dias_necesarios": 1.7,
+        "porcentaje_salario_mensual": 5.6
+      },
+      "Comercio y reparación de efectos personales": {
+        "salario_mensual": 4632.3,
+        "dias_necesarios": 4.6,
+        "porcentaje_salario_mensual": 15.3
+      },
+      "Hoteles y restaurantes": {
+        "salario_mensual": 5019.9,
+        "dias_necesarios": 4.2,
+        "porcentaje_salario_mensual": 14.2
+      }
+    }
+  },
+  "Azucar": {
+    "precio_promedio_cup": 705.3,
+    "dias_salario_por_sector": {
+      "Transporte , almacenamiento y comunicaciones": {
+        "salario_mensual": 8657.4,
+        "dias_necesarios": 2.4,
+        "porcentaje_salario_mensual": 8.1
+      },
+      "Intermediación financiera": {
+        "salario_mensual": 7785.7,
+        "dias_necesarios": 2.7,
+        "porcentaje_salario_mensual": 9.1
+      },
+      "Servicios empresariales , actividades mobiliarias y de alquiler": {
+        "salario_mensual": 9700.9,
+        "dias_necesarios": 2.2,
+        "porcentaje_salario_mensual": 7.3
+      },
+      "Administración pública , defensa y seguridad social": {
+        "salario_mensual": 5578.9,
+        "dias_necesarios": 3.8,
+        "porcentaje_salario_mensual": 12.6
+      },
+      "Ciencia e innovación tecnológica": {
+        "salario_mensual": 6966.7,
+        "dias_necesarios": 3.0,
+        "porcentaje_salario_mensual": 10.1
+      },
+      "Educación": {
+        "salario_mensual": 5432.5,
+        "dias_necesarios": 3.9,
+        "porcentaje_salario_mensual": 13.0
+      },
+      "Salud pública y asistencia social": {
+        "salario_mensual": 6489.7,
+        "dias_necesarios": 3.3,
+        "porcentaje_salario_mensual": 10.9
+      },
+      "Cultura y deporte": {
+        "salario_mensual": 5037.6,
+        "dias_necesarios": 4.2,
+        "porcentaje_salario_mensual": 14.0
+      },
+      "Otras actividades de servicios comunales , de asociaciones y personales": {
+        "salario_mensual": 4688.1,
+        "dias_necesarios": 4.5,
+        "porcentaje_salario_mensual": 15.0
+      },
+      "Agricultura , ganadería y silvicultura": {
+        "salario_mensual": 6366.3,
+        "dias_necesarios": 3.3,
+        "porcentaje_salario_mensual": 11.1
+      },
+      "Pesca": {
+        "salario_mensual": 7284.1,
+        "dias_necesarios": 2.9,
+        "porcentaje_salario_mensual": 9.7
+      },
+      "Explotación de minas y canteras": {
+        "salario_mensual": 8872.7,
+        "dias_necesarios": 2.4,
+        "porcentaje_salario_mensual": 7.9
+      },
+      "Industria azucarera": {
+        "salario_mensual": 5670.3,
+        "dias_necesarios": 3.7,
+        "porcentaje_salario_mensual": 12.4
+      },
+      "Industria manufacturera excepto la azucarera": {
+        "salario_mensual": 7601.2,
+        "dias_necesarios": 2.8,
+        "porcentaje_salario_mensual": 9.3
+      },
+      "Suministro de electricidad , gas y agua": {
+        "salario_mensual": 12680.4,
+        "dias_necesarios": 1.7,
+        "porcentaje_salario_mensual": 5.6
+      },
+      "Construcción": {
+        "salario_mensual": 12635.8,
+        "dias_necesarios": 1.7,
+        "porcentaje_salario_mensual": 5.6
+      },
+      "Comercio y reparación de efectos personales": {
+        "salario_mensual": 4632.3,
+        "dias_necesarios": 4.6,
+        "porcentaje_salario_mensual": 15.2
+      },
+      "Hoteles y restaurantes": {
+        "salario_mensual": 5019.9,
+        "dias_necesarios": 4.2,
+        "porcentaje_salario_mensual": 14.1
+      }
+    }
+  },
+  "Sal": {
+    "precio_promedio_cup": 467.5,
+    "dias_salario_por_sector": {
+      "Transporte , almacenamiento y comunicaciones": {
+        "salario_mensual": 8657.4,
+        "dias_necesarios": 1.6,
+        "porcentaje_salario_mensual": 5.4
+      },
+      "Intermediación financiera": {
+        "salario_mensual": 7785.7,
+        "dias_necesarios": 1.8,
+        "porcentaje_salario_mensual": 6.0
+      },
+      "Servicios empresariales , actividades mobiliarias y de alquiler": {
+        "salario_mensual": 9700.9,
+        "dias_necesarios": 1.4,
+        "porcentaje_salario_mensual": 4.8
+      },
+      "Administración pública , defensa y seguridad social": {
+        "salario_mensual": 5578.9,
+        "dias_necesarios": 2.5,
+        "porcentaje_salario_mensual": 8.4
+      },
+      "Ciencia e innovación tecnológica": {
+        "salario_mensual": 6966.7,
+        "dias_necesarios": 2.0,
+        "porcentaje_salario_mensual": 6.7
+      },
+      "Educación": {
+        "salario_mensual": 5432.5,
+        "dias_necesarios": 2.6,
+        "porcentaje_salario_mensual": 8.6
+      },
+      "Salud pública y asistencia social": {
+        "salario_mensual": 6489.7,
+        "dias_necesarios": 2.2,
+        "porcentaje_salario_mensual": 7.2
+      },
+      "Cultura y deporte": {
+        "salario_mensual": 5037.6,
+        "dias_necesarios": 2.8,
+        "porcentaje_salario_mensual": 9.3
+      },
+      "Otras actividades de servicios comunales , de asociaciones y personales": {
+        "salario_mensual": 4688.1,
+        "dias_necesarios": 3.0,
+        "porcentaje_salario_mensual": 10.0
+      },
+      "Agricultura , ganadería y silvicultura": {
+        "salario_mensual": 6366.3,
+        "dias_necesarios": 2.2,
+        "porcentaje_salario_mensual": 7.3
+      },
+      "Pesca": {
+        "salario_mensual": 7284.1,
+        "dias_necesarios": 1.9,
+        "porcentaje_salario_mensual": 6.4
+      },
+      "Explotación de minas y canteras": {
+        "salario_mensual": 8872.7,
+        "dias_necesarios": 1.6,
+        "porcentaje_salario_mensual": 5.3
+      },
+      "Industria azucarera": {
+        "salario_mensual": 5670.3,
+        "dias_necesarios": 2.5,
+        "porcentaje_salario_mensual": 8.2
+      },
+      "Industria manufacturera excepto la azucarera": {
+        "salario_mensual": 7601.2,
+        "dias_necesarios": 1.8,
+        "porcentaje_salario_mensual": 6.2
+      },
+      "Suministro de electricidad , gas y agua": {
+        "salario_mensual": 12680.4,
+        "dias_necesarios": 1.1,
+        "porcentaje_salario_mensual": 3.7
+      },
+      "Construcción": {
+        "salario_mensual": 12635.8,
+        "dias_necesarios": 1.1,
+        "porcentaje_salario_mensual": 3.7
+      },
+      "Comercio y reparación de efectos personales": {
+        "salario_mensual": 4632.3,
+        "dias_necesarios": 3.0,
+        "porcentaje_salario_mensual": 10.1
+      },
+      "Hoteles y restaurantes": {
+        "salario_mensual": 5019.9,
+        "dias_necesarios": 2.8,
+        "porcentaje_salario_mensual": 9.3
+      }
+    }
+  },
+  "Frijoles": {
+    "precio_promedio_cup": 1057.8,
+    "dias_salario_por_sector": {
+      "Transporte , almacenamiento y comunicaciones": {
+        "salario_mensual": 8657.4,
+        "dias_necesarios": 3.7,
+        "porcentaje_salario_mensual": 12.2
+      },
+      "Intermediación financiera": {
+        "salario_mensual": 7785.7,
+        "dias_necesarios": 4.1,
+        "porcentaje_salario_mensual": 13.6
+      },
+      "Servicios empresariales , actividades mobiliarias y de alquiler": {
+        "salario_mensual": 9700.9,
+        "dias_necesarios": 3.3,
+        "porcentaje_salario_mensual": 10.9
+      },
+      "Administración pública , defensa y seguridad social": {
+        "salario_mensual": 5578.9,
+        "dias_necesarios": 5.7,
+        "porcentaje_salario_mensual": 19.0
+      },
+      "Ciencia e innovación tecnológica": {
+        "salario_mensual": 6966.7,
+        "dias_necesarios": 4.6,
+        "porcentaje_salario_mensual": 15.2
+      },
+      "Educación": {
+        "salario_mensual": 5432.5,
+        "dias_necesarios": 5.8,
+        "porcentaje_salario_mensual": 19.5
+      },
+      "Salud pública y asistencia social": {
+        "salario_mensual": 6489.7,
+        "dias_necesarios": 4.9,
+        "porcentaje_salario_mensual": 16.3
+      },
+      "Cultura y deporte": {
+        "salario_mensual": 5037.6,
+        "dias_necesarios": 6.3,
+        "porcentaje_salario_mensual": 21.0
+      },
+      "Otras actividades de servicios comunales , de asociaciones y personales": {
+        "salario_mensual": 4688.1,
+        "dias_necesarios": 6.8,
+        "porcentaje_salario_mensual": 22.6
+      },
+      "Agricultura , ganadería y silvicultura": {
+        "salario_mensual": 6366.3,
+        "dias_necesarios": 5.0,
+        "porcentaje_salario_mensual": 16.6
+      },
+      "Pesca": {
+        "salario_mensual": 7284.1,
+        "dias_necesarios": 4.4,
+        "porcentaje_salario_mensual": 14.5
+      },
+      "Explotación de minas y canteras": {
+        "salario_mensual": 8872.7,
+        "dias_necesarios": 3.6,
+        "porcentaje_salario_mensual": 11.9
+      },
+      "Industria azucarera": {
+        "salario_mensual": 5670.3,
+        "dias_necesarios": 5.6,
+        "porcentaje_salario_mensual": 18.7
+      },
+      "Industria manufacturera excepto la azucarera": {
+        "salario_mensual": 7601.2,
+        "dias_necesarios": 4.2,
+        "porcentaje_salario_mensual": 13.9
+      },
+      "Suministro de electricidad , gas y agua": {
+        "salario_mensual": 12680.4,
+        "dias_necesarios": 2.5,
+        "porcentaje_salario_mensual": 8.3
+      },
+      "Construcción": {
+        "salario_mensual": 12635.8,
+        "dias_necesarios": 2.5,
+        "porcentaje_salario_mensual": 8.4
+      },
+      "Comercio y reparación de efectos personales": {
+        "salario_mensual": 4632.3,
+        "dias_necesarios": 6.9,
+        "porcentaje_salario_mensual": 22.8
+      },
+      "Hoteles y restaurantes": {
+        "salario_mensual": 5019.9,
+        "dias_necesarios": 6.3,
+        "porcentaje_salario_mensual": 21.1
+      }
+    }
+  },
+  "Aceite": {
+    "precio_promedio_cup": 1034.8,
+    "dias_salario_por_sector": {
+      "Transporte , almacenamiento y comunicaciones": {
+        "salario_mensual": 8657.4,
+        "dias_necesarios": 3.6,
+        "porcentaje_salario_mensual": 12.0
+      },
+      "Intermediación financiera": {
+        "salario_mensual": 7785.7,
+        "dias_necesarios": 4.0,
+        "porcentaje_salario_mensual": 13.3
+      },
+      "Servicios empresariales , actividades mobiliarias y de alquiler": {
+        "salario_mensual": 9700.9,
+        "dias_necesarios": 3.2,
+        "porcentaje_salario_mensual": 10.7
+      },
+      "Administración pública , defensa y seguridad social": {
+        "salario_mensual": 5578.9,
+        "dias_necesarios": 5.6,
+        "porcentaje_salario_mensual": 18.5
+      },
+      "Ciencia e innovación tecnológica": {
+        "salario_mensual": 6966.7,
+        "dias_necesarios": 4.5,
+        "porcentaje_salario_mensual": 14.9
+      },
+      "Educación": {
+        "salario_mensual": 5432.5,
+        "dias_necesarios": 5.7,
+        "porcentaje_salario_mensual": 19.0
+      },
+      "Salud pública y asistencia social": {
+        "salario_mensual": 6489.7,
+        "dias_necesarios": 4.8,
+        "porcentaje_salario_mensual": 15.9
+      },
+      "Cultura y deporte": {
+        "salario_mensual": 5037.6,
+        "dias_necesarios": 6.2,
+        "porcentaje_salario_mensual": 20.5
+      },
+      "Otras actividades de servicios comunales , de asociaciones y personales": {
+        "salario_mensual": 4688.1,
+        "dias_necesarios": 6.6,
+        "porcentaje_salario_mensual": 22.1
+      },
+      "Agricultura , ganadería y silvicultura": {
+        "salario_mensual": 6366.3,
+        "dias_necesarios": 4.9,
+        "porcentaje_salario_mensual": 16.3
+      },
+      "Pesca": {
+        "salario_mensual": 7284.1,
+        "dias_necesarios": 4.3,
+        "porcentaje_salario_mensual": 14.2
+      },
+      "Explotación de minas y canteras": {
+        "salario_mensual": 8872.7,
+        "dias_necesarios": 3.5,
+        "porcentaje_salario_mensual": 11.7
+      },
+      "Industria azucarera": {
+        "salario_mensual": 5670.3,
+        "dias_necesarios": 5.5,
+        "porcentaje_salario_mensual": 18.2
+      },
+      "Industria manufacturera excepto la azucarera": {
+        "salario_mensual": 7601.2,
+        "dias_necesarios": 4.1,
+        "porcentaje_salario_mensual": 13.6
+      },
+      "Suministro de electricidad , gas y agua": {
+        "salario_mensual": 12680.4,
+        "dias_necesarios": 2.4,
+        "porcentaje_salario_mensual": 8.2
+      },
+      "Construcción": {
+        "salario_mensual": 12635.8,
+        "dias_necesarios": 2.5,
+        "porcentaje_salario_mensual": 8.2
+      },
+      "Comercio y reparación de efectos personales": {
+        "salario_mensual": 4632.3,
+        "dias_necesarios": 6.7,
+        "porcentaje_salario_mensual": 22.3
+      },
+      "Hoteles y restaurantes": {
+        "salario_mensual": 5019.9,
+        "dias_necesarios": 6.2,
+        "porcentaje_salario_mensual": 20.6
+      }
+    }
+  },
+  "Pechuga de pollo": {
+    "precio_promedio_cup": 5223.3,
+    "dias_salario_por_sector": {
+      "Transporte , almacenamiento y comunicaciones": {
+        "salario_mensual": 8657.4,
+        "dias_necesarios": 18.1,
+        "porcentaje_salario_mensual": 60.3
+      },
+      "Intermediación financiera": {
+        "salario_mensual": 7785.7,
+        "dias_necesarios": 20.1,
+        "porcentaje_salario_mensual": 67.1
+      },
+      "Servicios empresariales , actividades mobiliarias y de alquiler": {
+        "salario_mensual": 9700.9,
+        "dias_necesarios": 16.2,
+        "porcentaje_salario_mensual": 53.8
+      },
+      "Administración pública , defensa y seguridad social": {
+        "salario_mensual": 5578.9,
+        "dias_necesarios": 28.1,
+        "porcentaje_salario_mensual": 93.6
+      },
+      "Ciencia e innovación tecnológica": {
+        "salario_mensual": 6966.7,
+        "dias_necesarios": 22.5,
+        "porcentaje_salario_mensual": 75.0
+      },
+      "Educación": {
+        "salario_mensual": 5432.5,
+        "dias_necesarios": 28.8,
+        "porcentaje_salario_mensual": 96.1
+      },
+      "Salud pública y asistencia social": {
+        "salario_mensual": 6489.7,
+        "dias_necesarios": 24.1,
+        "porcentaje_salario_mensual": 80.5
+      },
+      "Cultura y deporte": {
+        "salario_mensual": 5037.6,
+        "dias_necesarios": 31.1,
+        "porcentaje_salario_mensual": 103.7
+      },
+      "Otras actividades de servicios comunales , de asociaciones y personales": {
+        "salario_mensual": 4688.1,
+        "dias_necesarios": 33.4,
+        "porcentaje_salario_mensual": 111.4
+      },
+      "Agricultura , ganadería y silvicultura": {
+        "salario_mensual": 6366.3,
+        "dias_necesarios": 24.6,
+        "porcentaje_salario_mensual": 82.0
+      },
+      "Pesca": {
+        "salario_mensual": 7284.1,
+        "dias_necesarios": 21.5,
+        "porcentaje_salario_mensual": 71.7
+      },
+      "Explotación de minas y canteras": {
+        "salario_mensual": 8872.7,
+        "dias_necesarios": 17.7,
+        "porcentaje_salario_mensual": 58.9
+      },
+      "Industria azucarera": {
+        "salario_mensual": 5670.3,
+        "dias_necesarios": 27.6,
+        "porcentaje_salario_mensual": 92.1
+      },
+      "Industria manufacturera excepto la azucarera": {
+        "salario_mensual": 7601.2,
+        "dias_necesarios": 20.6,
+        "porcentaje_salario_mensual": 68.7
+      },
+      "Suministro de electricidad , gas y agua": {
+        "salario_mensual": 12680.4,
+        "dias_necesarios": 12.4,
+        "porcentaje_salario_mensual": 41.2
+      },
+      "Construcción": {
+        "salario_mensual": 12635.8,
+        "dias_necesarios": 12.4,
+        "porcentaje_salario_mensual": 41.3
+      },
+      "Comercio y reparación de efectos personales": {
+        "salario_mensual": 4632.3,
+        "dias_necesarios": 33.8,
+        "porcentaje_salario_mensual": 112.8
+      },
+      "Hoteles y restaurantes": {
+        "salario_mensual": 5019.9,
+        "dias_necesarios": 31.2,
+        "porcentaje_salario_mensual": 104.1
+      }
+    }
+  },
+  "Leche Condensada": {
+    "precio_promedio_cup": 557.6,
+    "dias_salario_por_sector": {
+      "Transporte , almacenamiento y comunicaciones": {
+        "salario_mensual": 8657.4,
+        "dias_necesarios": 1.9,
+        "porcentaje_salario_mensual": 6.4
+      },
+      "Intermediación financiera": {
+        "salario_mensual": 7785.7,
+        "dias_necesarios": 2.1,
+        "porcentaje_salario_mensual": 7.2
+      },
+      "Servicios empresariales , actividades mobiliarias y de alquiler": {
+        "salario_mensual": 9700.9,
+        "dias_necesarios": 1.7,
+        "porcentaje_salario_mensual": 5.7
+      },
+      "Administración pública , defensa y seguridad social": {
+        "salario_mensual": 5578.9,
+        "dias_necesarios": 3.0,
+        "porcentaje_salario_mensual": 10.0
+      },
+      "Ciencia e innovación tecnológica": {
+        "salario_mensual": 6966.7,
+        "dias_necesarios": 2.4,
+        "porcentaje_salario_mensual": 8.0
+      },
+      "Educación": {
+        "salario_mensual": 5432.5,
+        "dias_necesarios": 3.1,
+        "porcentaje_salario_mensual": 10.3
+      },
+      "Salud pública y asistencia social": {
+        "salario_mensual": 6489.7,
+        "dias_necesarios": 2.6,
+        "porcentaje_salario_mensual": 8.6
+      },
+      "Cultura y deporte": {
+        "salario_mensual": 5037.6,
+        "dias_necesarios": 3.3,
+        "porcentaje_salario_mensual": 11.1
+      },
+      "Otras actividades de servicios comunales , de asociaciones y personales": {
+        "salario_mensual": 4688.1,
+        "dias_necesarios": 3.6,
+        "porcentaje_salario_mensual": 11.9
+      },
+      "Agricultura , ganadería y silvicultura": {
+        "salario_mensual": 6366.3,
+        "dias_necesarios": 2.6,
+        "porcentaje_salario_mensual": 8.8
+      },
+      "Pesca": {
+        "salario_mensual": 7284.1,
+        "dias_necesarios": 2.3,
+        "porcentaje_salario_mensual": 7.7
+      },
+      "Explotación de minas y canteras": {
+        "salario_mensual": 8872.7,
+        "dias_necesarios": 1.9,
+        "porcentaje_salario_mensual": 6.3
+      },
+      "Industria azucarera": {
+        "salario_mensual": 5670.3,
+        "dias_necesarios": 3.0,
+        "porcentaje_salario_mensual": 9.8
+      },
+      "Industria manufacturera excepto la azucarera": {
+        "salario_mensual": 7601.2,
+        "dias_necesarios": 2.2,
+        "porcentaje_salario_mensual": 7.3
+      },
+      "Suministro de electricidad , gas y agua": {
+        "salario_mensual": 12680.4,
+        "dias_necesarios": 1.3,
+        "porcentaje_salario_mensual": 4.4
+      },
+      "Construcción": {
+        "salario_mensual": 12635.8,
+        "dias_necesarios": 1.3,
+        "porcentaje_salario_mensual": 4.4
+      },
+      "Comercio y reparación de efectos personales": {
+        "salario_mensual": 4632.3,
+        "dias_necesarios": 3.6,
+        "porcentaje_salario_mensual": 12.0
+      },
+      "Hoteles y restaurantes": {
+        "salario_mensual": 5019.9,
+        "dias_necesarios": 3.3,
+        "porcentaje_salario_mensual": 11.1
+      }
+    }
+  },
+  "Pasta Dental": {
+    "precio_promedio_cup": 576.0,
+    "dias_salario_por_sector": {
+      "Transporte , almacenamiento y comunicaciones": {
+        "salario_mensual": 8657.4,
+        "dias_necesarios": 2.0,
+        "porcentaje_salario_mensual": 6.7
+      },
+      "Intermediación financiera": {
+        "salario_mensual": 7785.7,
+        "dias_necesarios": 2.2,
+        "porcentaje_salario_mensual": 7.4
+      },
+      "Servicios empresariales , actividades mobiliarias y de alquiler": {
+        "salario_mensual": 9700.9,
+        "dias_necesarios": 1.8,
+        "porcentaje_salario_mensual": 5.9
+      },
+      "Administración pública , defensa y seguridad social": {
+        "salario_mensual": 5578.9,
+        "dias_necesarios": 3.1,
+        "porcentaje_salario_mensual": 10.3
+      },
+      "Ciencia e innovación tecnológica": {
+        "salario_mensual": 6966.7,
+        "dias_necesarios": 2.5,
+        "porcentaje_salario_mensual": 8.3
+      },
+      "Educación": {
+        "salario_mensual": 5432.5,
+        "dias_necesarios": 3.2,
+        "porcentaje_salario_mensual": 10.6
+      },
+      "Salud pública y asistencia social": {
+        "salario_mensual": 6489.7,
+        "dias_necesarios": 2.7,
+        "porcentaje_salario_mensual": 8.9
+      },
+      "Cultura y deporte": {
+        "salario_mensual": 5037.6,
+        "dias_necesarios": 3.4,
+        "porcentaje_salario_mensual": 11.4
+      },
+      "Otras actividades de servicios comunales , de asociaciones y personales": {
+        "salario_mensual": 4688.1,
+        "dias_necesarios": 3.7,
+        "porcentaje_salario_mensual": 12.3
+      },
+      "Agricultura , ganadería y silvicultura": {
+        "salario_mensual": 6366.3,
+        "dias_necesarios": 2.7,
+        "porcentaje_salario_mensual": 9.0
+      },
+      "Pesca": {
+        "salario_mensual": 7284.1,
+        "dias_necesarios": 2.4,
+        "porcentaje_salario_mensual": 7.9
+      },
+      "Explotación de minas y canteras": {
+        "salario_mensual": 8872.7,
+        "dias_necesarios": 1.9,
+        "porcentaje_salario_mensual": 6.5
+      },
+      "Industria azucarera": {
+        "salario_mensual": 5670.3,
+        "dias_necesarios": 3.0,
+        "porcentaje_salario_mensual": 10.2
+      },
+      "Industria manufacturera excepto la azucarera": {
+        "salario_mensual": 7601.2,
+        "dias_necesarios": 2.3,
+        "porcentaje_salario_mensual": 7.6
+      },
+      "Suministro de electricidad , gas y agua": {
+        "salario_mensual": 12680.4,
+        "dias_necesarios": 1.4,
+        "porcentaje_salario_mensual": 4.5
+      },
+      "Construcción": {
+        "salario_mensual": 12635.8,
+        "dias_necesarios": 1.4,
+        "porcentaje_salario_mensual": 4.6
+      },
+      "Comercio y reparación de efectos personales": {
+        "salario_mensual": 4632.3,
+        "dias_necesarios": 3.7,
+        "porcentaje_salario_mensual": 12.4
+      },
+      "Hoteles y restaurantes": {
+        "salario_mensual": 5019.9,
+        "dias_necesarios": 3.4,
+        "porcentaje_salario_mensual": 11.5
+      }
+    }
+  },
+  "Huevos": {
+    "precio_promedio_cup": 103.0,
+    "dias_salario_por_sector": {
+      "Transporte , almacenamiento y comunicaciones": {
+        "salario_mensual": 8657.4,
+        "dias_necesarios": 0.4,
+        "porcentaje_salario_mensual": 1.2
+      },
+      "Intermediación financiera": {
+        "salario_mensual": 7785.7,
+        "dias_necesarios": 0.4,
+        "porcentaje_salario_mensual": 1.3
+      },
+      "Servicios empresariales , actividades mobiliarias y de alquiler": {
+        "salario_mensual": 9700.9,
+        "dias_necesarios": 0.3,
+        "porcentaje_salario_mensual": 1.1
+      },
+      "Administración pública , defensa y seguridad social": {
+        "salario_mensual": 5578.9,
+        "dias_necesarios": 0.6,
+        "porcentaje_salario_mensual": 1.8
+      },
+      "Ciencia e innovación tecnológica": {
+        "salario_mensual": 6966.7,
+        "dias_necesarios": 0.4,
+        "porcentaje_salario_mensual": 1.5
+      },
+      "Educación": {
+        "salario_mensual": 5432.5,
+        "dias_necesarios": 0.6,
+        "porcentaje_salario_mensual": 1.9
+      },
+      "Salud pública y asistencia social": {
+        "salario_mensual": 6489.7,
+        "dias_necesarios": 0.5,
+        "porcentaje_salario_mensual": 1.6
+      },
+      "Cultura y deporte": {
+        "salario_mensual": 5037.6,
+        "dias_necesarios": 0.6,
+        "porcentaje_salario_mensual": 2.0
+      },
+      "Otras actividades de servicios comunales , de asociaciones y personales": {
+        "salario_mensual": 4688.1,
+        "dias_necesarios": 0.7,
+        "porcentaje_salario_mensual": 2.2
+      },
+      "Agricultura , ganadería y silvicultura": {
+        "salario_mensual": 6366.3,
+        "dias_necesarios": 0.5,
+        "porcentaje_salario_mensual": 1.6
+      },
+      "Pesca": {
+        "salario_mensual": 7284.1,
+        "dias_necesarios": 0.4,
+        "porcentaje_salario_mensual": 1.4
+      },
+      "Explotación de minas y canteras": {
+        "salario_mensual": 8872.7,
+        "dias_necesarios": 0.3,
+        "porcentaje_salario_mensual": 1.2
+      },
+      "Industria azucarera": {
+        "salario_mensual": 5670.3,
+        "dias_necesarios": 0.5,
+        "porcentaje_salario_mensual": 1.8
+      },
+      "Industria manufacturera excepto la azucarera": {
+        "salario_mensual": 7601.2,
+        "dias_necesarios": 0.4,
+        "porcentaje_salario_mensual": 1.4
+      },
+      "Suministro de electricidad , gas y agua": {
+        "salario_mensual": 12680.4,
+        "dias_necesarios": 0.2,
+        "porcentaje_salario_mensual": 0.8
+      },
+      "Construcción": {
+        "salario_mensual": 12635.8,
+        "dias_necesarios": 0.2,
+        "porcentaje_salario_mensual": 0.8
+      },
+      "Comercio y reparación de efectos personales": {
+        "salario_mensual": 4632.3,
+        "dias_necesarios": 0.7,
+        "porcentaje_salario_mensual": 2.2
+      },
+      "Hoteles y restaurantes": {
+        "salario_mensual": 5019.9,
+        "dias_necesarios": 0.6,
+        "porcentaje_salario_mensual": 2.1
+      }
+    }
+  },
+  "Papel Higienico": {
+    "precio_promedio_cup": 669.0,
+    "dias_salario_por_sector": {
+      "Transporte , almacenamiento y comunicaciones": {
+        "salario_mensual": 8657.4,
+        "dias_necesarios": 2.3,
+        "porcentaje_salario_mensual": 7.7
+      },
+      "Intermediación financiera": {
+        "salario_mensual": 7785.7,
+        "dias_necesarios": 2.6,
+        "porcentaje_salario_mensual": 8.6
+      },
+      "Servicios empresariales , actividades mobiliarias y de alquiler": {
+        "salario_mensual": 9700.9,
+        "dias_necesarios": 2.1,
+        "porcentaje_salario_mensual": 6.9
+      },
+      "Administración pública , defensa y seguridad social": {
+        "salario_mensual": 5578.9,
+        "dias_necesarios": 3.6,
+        "porcentaje_salario_mensual": 12.0
+      },
+      "Ciencia e innovación tecnológica": {
+        "salario_mensual": 6966.7,
+        "dias_necesarios": 2.9,
+        "porcentaje_salario_mensual": 9.6
+      },
+      "Educación": {
+        "salario_mensual": 5432.5,
+        "dias_necesarios": 3.7,
+        "porcentaje_salario_mensual": 12.3
+      },
+      "Salud pública y asistencia social": {
+        "salario_mensual": 6489.7,
+        "dias_necesarios": 3.1,
+        "porcentaje_salario_mensual": 10.3
+      },
+      "Cultura y deporte": {
+        "salario_mensual": 5037.6,
+        "dias_necesarios": 4.0,
+        "porcentaje_salario_mensual": 13.3
+      },
+      "Otras actividades de servicios comunales , de asociaciones y personales": {
+        "salario_mensual": 4688.1,
+        "dias_necesarios": 4.3,
+        "porcentaje_salario_mensual": 14.3
+      },
+      "Agricultura , ganadería y silvicultura": {
+        "salario_mensual": 6366.3,
+        "dias_necesarios": 3.2,
+        "porcentaje_salario_mensual": 10.5
+      },
+      "Pesca": {
+        "salario_mensual": 7284.1,
+        "dias_necesarios": 2.8,
+        "porcentaje_salario_mensual": 9.2
+      },
+      "Explotación de minas y canteras": {
+        "salario_mensual": 8872.7,
+        "dias_necesarios": 2.3,
+        "porcentaje_salario_mensual": 7.5
+      },
+      "Industria azucarera": {
+        "salario_mensual": 5670.3,
+        "dias_necesarios": 3.5,
+        "porcentaje_salario_mensual": 11.8
+      },
+      "Industria manufacturera excepto la azucarera": {
+        "salario_mensual": 7601.2,
+        "dias_necesarios": 2.6,
+        "porcentaje_salario_mensual": 8.8
+      },
+      "Suministro de electricidad , gas y agua": {
+        "salario_mensual": 12680.4,
+        "dias_necesarios": 1.6,
+        "porcentaje_salario_mensual": 5.3
+      },
+      "Construcción": {
+        "salario_mensual": 12635.8,
+        "dias_necesarios": 1.6,
+        "porcentaje_salario_mensual": 5.3
+      },
+      "Comercio y reparación de efectos personales": {
+        "salario_mensual": 4632.3,
+        "dias_necesarios": 4.3,
+        "porcentaje_salario_mensual": 14.4
+      },
+      "Hoteles y restaurantes": {
+        "salario_mensual": 5019.9,
+        "dias_necesarios": 4.0,
+        "porcentaje_salario_mensual": 13.3
+      }
+    }
+  },
+  "Detergente": {
+    "precio_promedio_cup": 505.4,
+    "dias_salario_por_sector": {
+      "Transporte , almacenamiento y comunicaciones": {
+        "salario_mensual": 8657.4,
+        "dias_necesarios": 1.8,
+        "porcentaje_salario_mensual": 5.8
+      },
+      "Intermediación financiera": {
+        "salario_mensual": 7785.7,
+        "dias_necesarios": 1.9,
+        "porcentaje_salario_mensual": 6.5
+      },
+      "Servicios empresariales , actividades mobiliarias y de alquiler": {
+        "salario_mensual": 9700.9,
+        "dias_necesarios": 1.6,
+        "porcentaje_salario_mensual": 5.2
+      },
+      "Administración pública , defensa y seguridad social": {
+        "salario_mensual": 5578.9,
+        "dias_necesarios": 2.7,
+        "porcentaje_salario_mensual": 9.1
+      },
+      "Ciencia e innovación tecnológica": {
+        "salario_mensual": 6966.7,
+        "dias_necesarios": 2.2,
+        "porcentaje_salario_mensual": 7.3
+      },
+      "Educación": {
+        "salario_mensual": 5432.5,
+        "dias_necesarios": 2.8,
+        "porcentaje_salario_mensual": 9.3
+      },
+      "Salud pública y asistencia social": {
+        "salario_mensual": 6489.7,
+        "dias_necesarios": 2.3,
+        "porcentaje_salario_mensual": 7.8
+      },
+      "Cultura y deporte": {
+        "salario_mensual": 5037.6,
+        "dias_necesarios": 3.0,
+        "porcentaje_salario_mensual": 10.0
+      },
+      "Otras actividades de servicios comunales , de asociaciones y personales": {
+        "salario_mensual": 4688.1,
+        "dias_necesarios": 3.2,
+        "porcentaje_salario_mensual": 10.8
+      },
+      "Agricultura , ganadería y silvicultura": {
+        "salario_mensual": 6366.3,
+        "dias_necesarios": 2.4,
+        "porcentaje_salario_mensual": 7.9
+      },
+      "Pesca": {
+        "salario_mensual": 7284.1,
+        "dias_necesarios": 2.1,
+        "porcentaje_salario_mensual": 6.9
+      },
+      "Explotación de minas y canteras": {
+        "salario_mensual": 8872.7,
+        "dias_necesarios": 1.7,
+        "porcentaje_salario_mensual": 5.7
+      },
+      "Industria azucarera": {
+        "salario_mensual": 5670.3,
+        "dias_necesarios": 2.7,
+        "porcentaje_salario_mensual": 8.9
+      },
+      "Industria manufacturera excepto la azucarera": {
+        "salario_mensual": 7601.2,
+        "dias_necesarios": 2.0,
+        "porcentaje_salario_mensual": 6.6
+      },
+      "Suministro de electricidad , gas y agua": {
+        "salario_mensual": 12680.4,
+        "dias_necesarios": 1.2,
+        "porcentaje_salario_mensual": 4.0
+      },
+      "Construcción": {
+        "salario_mensual": 12635.8,
+        "dias_necesarios": 1.2,
+        "porcentaje_salario_mensual": 4.0
+      },
+      "Comercio y reparación de efectos personales": {
+        "salario_mensual": 4632.3,
+        "dias_necesarios": 3.3,
+        "porcentaje_salario_mensual": 10.9
+      },
+      "Hoteles y restaurantes": {
+        "salario_mensual": 5019.9,
+        "dias_necesarios": 3.0,
+        "porcentaje_salario_mensual": 10.1
+      }
+    }
+  }
+}

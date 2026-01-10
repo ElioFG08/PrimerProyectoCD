@@ -67,7 +67,7 @@
     {
       "producto_id": "P011",
       "nombre": "Detergente",
-      "precio": ,
+      "precio": null,
       "unidad": "500g"
     },
     {
