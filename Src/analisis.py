@@ -358,8 +358,6 @@ def ejecutar_analisis_completo():
     # Buscar el archivo JSON unido
     rutas_posibles = [
         'Data/Procesados/mipymes_unidas.json',  # Desde raíz
-        '../Data/Procesados/mipymes_unidas.json',  # Desde Src/
-        '../../Data/Procesados/mipymes_unidas.json',  # Otra posibilidad
     ]
 
     ruta_encontrada = None

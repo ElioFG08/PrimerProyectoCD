@@ -1,0 +1,161 @@
+[
+  {
+    "Mipyme_id": "WEB001",
+    "nombre_tienda": "CubaMax",
+    "municipio": "Plaza",
+    "productos": [
+      {
+        "producto_id": "P001",
+        "nombre": "Spaguetis",
+        "precio": 0.85,
+        "unidad": "500g"
+      },
+      {
+        "producto_id": "P002",
+        "nombre": "Arroz",
+        "precio": 2.42,
+        "unidad": "1kg"
+      },
+      {
+        "producto_id": "P003",
+        "nombre": "Azucar",
+        "precio": 2.50,
+        "unidad": "1kg"
+      },
+      {
+        "producto_id": "P004",
+        "nombre": "Sal",
+        "precio": null,
+        "unidad": "1kg"
+      },
+      {
+        "producto_id": "P005",
+        "nombre": "Frijoles",
+        "precio": 3.54,
+        "unidad": "1kg"
+      },
+      {
+        "producto_id": "P006",
+        "nombre": "Aceite",
+        "precio": 3.30,
+        "unidad": "1l"
+      },
+      {
+        "producto_id": "P007",
+        "nombre": "Huevos",
+        "precio": 0.3,
+        "unidad": "unidad"
+      },
+      {
+        "producto_id": "P008",
+        "nombre": "Pechuga de pollo",
+        "precio": null,
+        "unidad": "2kg"
+      },
+      {
+        "producto_id": "P009",
+        "nombre": "Leche Condensada",
+        "precio": 1.15,
+        "unidad": "unidad"
+      },
+      {
+        "producto_id": "P010",
+        "nombre": "Papel Higienico",
+        "precio": 2.50,
+        "unidad": "Paquete"
+      },
+      {
+        "producto_id": "P011",
+        "nombre": "Detergente",
+        "precio": 1.87,
+        "unidad": "500g"
+      },
+      {
+        "producto_id": "P012",
+        "nombre": "Pasta Dental",
+        "precio": 1.60,
+        "unidad": "tubo"
+      }
+    ]
+  },
+
+  {
+    "Mipyme_id": "WEB002",
+    "nombre_tienda": "Supermarket23",
+    "municipio": "Plaza",
+    "productos": [
+      {
+        "producto_id": "P001",
+        "nombre": "Spaguetis",
+        "precio": 0.75,
+        "unidad": "500g"
+      },
+      {
+        "producto_id": "P002",
+        "nombre": "Arroz",
+        "precio": 1.89,
+        "unidad": "1kg"
+      },
+      {
+        "producto_id": "P003",
+        "nombre": "Azucar",
+        "precio": 1.55,
+        "unidad": "1kg"
+      },
+      {
+        "producto_id": "P004",
+        "nombre": "Sal",
+        "precio": 1.10,
+        "unidad": "1kg"
+      },
+      {
+        "producto_id": "P005",
+        "nombre": "Frijoles",
+        "precio": 2.00,
+        "unidad": "1kg"
+      },
+      {
+        "producto_id": "P006",
+        "nombre": "Aceite",
+        "precio": 2.75,
+        "unidad": "1l"
+      },
+      {
+        "producto_id": "P007",
+        "nombre": "Huevos",
+        "precio": 5.50,
+        "unidad": "unidad"
+      },
+      {
+        "producto_id": "P008",
+        "nombre": "Pechuga de pollo",
+        "precio": 10.55,
+        "unidad": "2kg"
+      },
+      {
+        "producto_id": "P009",
+        "nombre": "Leche Condensada",
+        "precio": 1.14,
+        "unidad": "unidad"
+      },
+      {
+        "producto_id": "P010",
+        "nombre": "Papel Higienico",
+        "precio": 0.40,
+        "unidad": "Paquete"
+      },
+      {
+        "producto_id": "P011",
+        "nombre": "Detergente",
+        "precio": 0.80,
+        "unidad": "500g"
+      },
+      {
+        "producto_id": "P012",
+        "nombre": "Pasta Dental",
+        "precio": 1.40,
+        "unidad": "tubo"
+      }
+    ]
+  }
+]
