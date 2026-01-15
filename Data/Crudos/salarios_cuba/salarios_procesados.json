@@ -1,0 +1,24 @@
+{
+  "fuente": "Oficina Nacional de Estadística e Información de Cuba (ONEI)",
+  "fecha_datos": "Septiembre 2025",
+  "salarios_ordenados": {
+    "Suministro de electricidad , gas y agua": 12680.4,
+    "Construcción": 12635.8,
+    "Servicios empresariales , actividades mobiliarias y de alquiler": 9700.9,
+    "Explotación de minas y canteras": 8872.7,
+    "Transporte , almacenamiento y comunicaciones": 8657.4,
+    "Intermediación financiera": 7785.7,
+    "Industria manufacturera excepto la azucarera": 7601.2,
+    "Pesca": 7284.1,
+    "Ciencia e innovación tecnológica": 6966.7,
+    "Salud pública y asistencia social": 6489.7,
+    "Agricultura , ganadería y silvicultura": 6366.3,
+    "Industria azucarera": 5670.3,
+    "Administración pública , defensa y seguridad social": 5578.9,
+    "Educación": 5432.5,
+    "Cultura y deporte": 5037.6,
+    "Hoteles y restaurantes": 5019.9,
+    "Otras actividades de servicios comunales , de asociaciones y personales": 4688.1,
+    "Comercio y reparación de efectos personales": 4632.3
+  }
+}
