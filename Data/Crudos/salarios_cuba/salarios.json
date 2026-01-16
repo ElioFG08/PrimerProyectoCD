@@ -1,0 +1,46 @@
+{
+  "Fuente": "Oficina Nacional de Estadística e Información de Cuba (ONEI)",
+  "Datos": "Septiembre 2025",
+  "Fecha de publicación": "Septiembre 2025",
+
+  "Salarios por actividad económica":{
+
+    "Transporte , almacenamiento y comunicaciones": 8657.4,
+
+    "Intermediación financiera": 7785.7,
+
+    "Servicios empresariales , actividades mobiliarias y de alquiler": 9700.9,
+
+    "Administración pública , defensa y seguridad social": 5578.9,
+
+    "Ciencia e innovación tecnológica": 6966.7,
+
+    "Educación": 5432.5,
+
+    "Salud pública y asistencia social": 6489.7,
+
+    "Cultura y deporte": 5037.6,
+
+    "Otras actividades de servicios comunales , de asociaciones y personales": 4688.1,
+
+    "Agricultura , ganadería y silvicultura": 6366.3,
+
+    "Pesca": 7284.1,
+
+    "Explotación de minas y canteras": 8872.7,
+
+    "Industria azucarera": 5670.3,
+
+    "Industria manufacturera excepto la azucarera": 7601.2,
+
+    "Suministro de electricidad , gas y agua": 12680.4,
+
+    "Construcción": 12635.8,
+
+    "Comercio y reparación de efectos personales": 4632.3,
+
+    "Hoteles y restaurantes": 5019.9
+
+  }
+
+}
