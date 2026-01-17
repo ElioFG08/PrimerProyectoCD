@@ -13,8 +13,8 @@ def analizar_asequibilidad(ruta_salarios: str, productos: List[Dict]) -> Tuple[D
         salarios = datos_salarios.get('Salarios por actividad económica', {})
 
         # 2. Calcular costo de 8 productos básicos
-        productos_basicos = ["Arroz", "Frijoles", "Aceite", "Huevos",
-                             "Azucar", "Spaguetis", "Sal", "Pasta Dental"]
+        productos_basicos = ["Arroz", "Frijoles", "Aceite","Azucar", "Spaguetis",
+                             "Sal", "Pasta Dental","Detergente"]
 
         costo_total = 0.0
         for producto in productos_basicos:

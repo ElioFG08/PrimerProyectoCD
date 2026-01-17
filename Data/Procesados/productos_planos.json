@@ -831,7 +831,7 @@
   },
   {
     "mipyme_id": "M10",
-    "municipio": "Vedado",
+    "municipio": "Plaza",
     "latitud": 23.125956,
     "longitud": -82.407632,
     "producto_id": "P012",
@@ -1396,7 +1396,7 @@
     "longitud": -82.2708,
     "producto_id": "P005",
     "producto_nombre": "Frijoles",
-    "precio_cup": 440.0,
+    "precio_cup": 800.0,
     "unidad": "1kg"
   },
   {

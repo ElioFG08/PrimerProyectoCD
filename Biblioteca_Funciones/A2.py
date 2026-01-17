@@ -1,4 +1,4 @@
-# Src/precios.py
+# Biblioteca_Funciones/precios.py
 # Funciones específicas para el Análisis 2
 
 def calcular_precios(datos):
