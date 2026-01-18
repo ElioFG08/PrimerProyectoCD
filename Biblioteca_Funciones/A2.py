@@ -29,33 +29,20 @@ def calcular_precios(datos):
             'muestras': len(precios)
         })
 
-    # 3. Ordenar por precio promedio (más barato primero)
+    # 3. Ordenar por precio promedio (menor->mayor)
     resultados.sort(key=lambda x: x['promedio'])
 
     return resultados
 
 
 def encontrar_producto_mas_caro(precios):
-    """Encuentra el producto con precio promedio más alto."""
-    if not precios:
-        return None
-
     return max(precios, key=lambda x: x['promedio'])
 
 
 def encontrar_producto_mas_barato(precios):
-    """Encuentra el producto con precio promedio más bajo."""
-    if not precios:
-        return None
-
     return min(precios, key=lambda x: x['promedio'])
 
-
 def calcular_variacion_precios(precios):
-    """
-    Calcula la variación de precios como (max-min)/min * 100.
-    Retorna lista ordenada por mayor variación.
-    """
     resultados = []
 
     for p in precios:

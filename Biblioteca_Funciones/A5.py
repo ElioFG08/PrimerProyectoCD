@@ -15,9 +15,9 @@ def calcular_promedios_mipymes(datos_mipymes):
     for item in datos_mipymes:
         nombre = item['producto_nombre']
 
-        # CORRECCIÓN: El continue debe ir ANTES de procesar
+
         if 'Huevos' in nombre:
-            continue  # ← SALTA HUEVOS (aquí está bien ubicado)
+            continue
 
         precio = item['precio_cup']
         sumas[nombre].append(precio)
@@ -81,9 +81,7 @@ def generar_comparativa(ruta_mipymes, ruta_online, tasa_cambio=470):
     comparativa.sort(key=lambda x: x['diferencia'], reverse=True)
     return comparativa
 
-
 def obtener_top_productos(comparativa, n=3, criterio='diferencia'):
-    """Obtener top N productos por criterio"""
     if criterio == 'diferencia':
         return sorted(comparativa, key=lambda x: x['diferencia'], reverse=True)[:n]
     elif criterio == 'ratio':

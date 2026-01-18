@@ -1,11 +1,9 @@
 # Biblioteca_Funciones/funciones_analisis1.py
 import json
 
-
 def cargar_datos(ruta):
     with open(ruta, 'r', encoding='utf-8') as f:
         return json.load(f)
-
 
 def calcular_disponibilidad(datos):
     mipymes = set(d['mipyme_id'] for d in datos)
