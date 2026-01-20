@@ -51,6 +51,8 @@ def calcular_precios(datos):
 
     resultados.sort(key=lambda x: x['promedio'])
 
+    return resultados
+
 def calcular_variacion_precios(precios):
     resultados = []
     for p in precios:
